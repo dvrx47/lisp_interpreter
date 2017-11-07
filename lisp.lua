@@ -1,4 +1,4 @@
-
+-- wersja do dokonczenia
 function printf_(t)
 	io.write("{")
 	for i=1, #t do
